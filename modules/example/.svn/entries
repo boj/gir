@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-17T08:34:19.996596Z"
+   url="http://svn.mojobojo.com/gir/modules/example"
+   last-author="bojo"
+   kind="dir"
+   uuid="3d83d84b-3827-0410-a0cf-e7cb38c51cae"
+   repos="http://svn.mojobojo.com/gir"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="__init__.py"
+   text-time="2007-01-17T08:35:51.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="__init__.pyc"
+   text-time="2007-01-17T08:35:51.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="2dfe7d5aebbd051c040d62ef5b9f1dcc"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="main.py"
+   text-time="2007-01-17T08:35:51.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="560efb797039f2353808fe3d94d3a74b"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="main.pyc"
+   text-time="2007-01-17T08:35:51.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="64d09be2105806fb8ac8f45ed391f5ea"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+</wc-entries>

@@ -1,0 +1,29 @@
+Gir is a Twisted Matrix based IRC bot designed by Brian 'bojo' Jones,
+and distributed under the same terms as the Twisted Matrix framework.
+
+Gir's uniqueness is it's ability to dynamically load, reload, and unload
+3rd party modules while actively running.  This gives module writers the
+full capability of writing python based classes to extend gir's behavior,
+and allow bot moderators to add functionality without taking their bot
+offline.
+
+Because gir is based on the Twisted Matrix python framework, this means
+that it can also be extended to do other things such as jabber interfaces,
+web, and so on.
+
+Configuration:
+
+Edit the config.ini file to change the settings for the bot.
+
+Operator Commands:
+
+!syshelp: Displays the following operator functions
+!load <module>: Loads specified module
+!reload <module>: Reloads specified module
+!unload <module>: Unloads specified module
+!instmods: Lists loaded modules
+!listmods: Lists all available modules
+
+Modules are referenced by their directory name in the modules directory.
+
+2011-02-11:  Committing this ancient project for posterity sake.

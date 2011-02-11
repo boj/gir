@@ -1,0 +1,2 @@
+* Expand out admin from one user to a list
+* Possibly extend the modules classes so that they inherit from an interface

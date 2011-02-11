@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-17T08:34:19.996596Z"
+   url="http://svn.mojobojo.com/gir"
+   last-author="bojo"
+   kind="dir"
+   uuid="3d83d84b-3827-0410-a0cf-e7cb38c51cae"
+   repos="http://svn.mojobojo.com/gir"
+   revision="1"/>
+<entry
+   committed-rev="2"
+   name="config.ini"
+   text-time="2007-01-17T09:04:59.000000Z"
+   committed-date="2007-01-17T09:13:03.475878Z"
+   checksum="eaff8ff3c5db37619bfe8d16f32f846c"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"
+   revision="2"/>
+<entry
+   committed-rev="1"
+   name="README.modules"
+   text-time="2007-01-17T08:35:52.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="a5ad859cec5458f6ea8132a0f11b689b"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="TODO"
+   text-time="2007-01-17T08:35:52.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="65debe0a497c2d468050baba783f1112"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="__init__.py"
+   text-time="2007-01-17T08:35:52.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   name="modules"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="gir.py"
+   text-time="2007-01-17T08:35:52.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="e1c9320baa6fc6b573281a2d73c69519"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   name="data"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2007-01-17T08:35:52.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="22c16dae89c5ef45340d7a55b26ecdb0"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:52.000000Z"/>
+</wc-entries>

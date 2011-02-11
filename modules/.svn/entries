@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-17T08:34:19.996596Z"
+   url="http://svn.mojobojo.com/gir/modules"
+   last-author="bojo"
+   kind="dir"
+   uuid="3d83d84b-3827-0410-a0cf-e7cb38c51cae"
+   repos="http://svn.mojobojo.com/gir"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="__init__.py"
+   text-time="2007-01-17T08:35:51.000000Z"
+   committed-date="2007-01-17T08:34:19.996596Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"/>
+<entry
+   committed-rev="2"
+   name="__init__.pyc"
+   text-time="2007-01-17T08:36:17.000000Z"
+   committed-date="2007-01-17T09:13:03.475878Z"
+   checksum="4ecb9c4ab8f153360b4eeaa21c7bfb37"
+   last-author="bojo"
+   kind="file"
+   prop-time="2007-01-17T08:35:51.000000Z"
+   revision="2"/>
+<entry
+   name="wordstats"
+   kind="dir"/>
+<entry
+   name="example"
+   kind="dir"/>
+</wc-entries>
